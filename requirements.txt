@@ -1,0 +1,9 @@
+install 
+  python
+  Flask
+  Metadata_parser
+  Selenium
+  webdriver_manager
+  beautifulsoup
+  pandas
+  urllib
